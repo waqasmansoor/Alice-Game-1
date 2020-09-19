@@ -67,7 +67,7 @@ export default function App() {
     timing: {
       duration: 30000,
       iterations: 10000,
-      direction: 'reverse',
+      direction:'reverse',
 
 
     },
@@ -93,7 +93,7 @@ export default function App() {
     timing: {
       duration: 30000,
       iterations: 10000,
-      direction: 'reverse',
+      direction:'reverse',
 
 
     },
@@ -117,7 +117,7 @@ export default function App() {
     timing: {
       duration: 30000,
       iterations: 10000,
-      direction: 'reverse',
+      direction:'reverse',
 
 
     },
@@ -141,7 +141,7 @@ export default function App() {
     timing: {
       duration: 30000,
       iterations: 10000,
-      direction: 'reverse',
+      direction:'reverse',
 
 
     },
